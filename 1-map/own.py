@@ -12,3 +12,5 @@ for c in string:
 	text += char
 
 print text
+
+# Fucking Noob My logic but able to solve LOL
